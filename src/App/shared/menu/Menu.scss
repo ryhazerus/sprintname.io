@@ -1,0 +1,14 @@
+.menu-hover:hover {
+    padding: 5px;
+    transition: 0.3s;
+    background-color: #964dff;
+    color: white;
+}
+
+.menu-hover {
+    cursor: pointer;
+    padding: 5px;
+    transition: 0.3s;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
